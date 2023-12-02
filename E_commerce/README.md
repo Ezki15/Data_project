@@ -23,7 +23,7 @@ Sebelum menjalankan dasboard ini, terlebih dahulu install python dan streamlit d
 
 1. **Run Streamlit App:**
     ```bash
-    streamlit run dashboard_app.py
+    streamlit run dashboard.py
     ```
 
 2. **Access the Dashboard:**
