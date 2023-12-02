@@ -4,20 +4,20 @@
 E_Commerce Analysis Dasboard 
 
 ## Prerequisites
-Before you can run this dashboard, you need to have the following installed on your system:
+Sebelum menjalankan dasboard ini, terlebih dahulu install python dan streamlit di sistem kita:
 
-- [Streamlit](https://www.streamlit.io/): The main library for creating the dashboard.
-- [Python](https://www.python.org/): The programming language used to run the Streamlit application.
+- [Streamlit](https://www.streamlit.io/): Librari untuk membuat dasboard.
+- [Python](https://www.python.org/): Bahasa pemrogramman yang digunakan untuk membuat dasboard dengan Streamlit.
 
 ## Installation
 
-1. **Install Python:** If you don't have Python installed, you can download and install it from [python.org](https://www.python.org/downloads/).
+1. **Install Python:** Jika belum menginstall Python, kamu bisa mendownload dan menginstallnya dari [python.org](https://www.python.org/downloads/).
 
-2. **Install Streamlit:** Open your terminal or command prompt and run the following command to install Streamlit.
+2. **Install library yang dibutuhkan:** Buka terminal atau command prompt dan jalankan command dibawah ini.
 
     ```bash
-    pip install streamlit
-    ```
+    pip install -r requirements.txt
+    ``` 
 
 ## Running the Dashboard
 
